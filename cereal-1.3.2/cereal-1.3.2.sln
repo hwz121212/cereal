@@ -96,11 +96,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "sandbox", "sandbox", "{B75A
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "unittests", "unittests", "{A3D455C4-9FA8-40BA-B67E-B9722D345648}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0_dll", "0_dll", "{F9B33C1E-C5AC-422C-B3B1-A8609CC4F9D9}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0_lib", "0_lib", "{F9B33C1E-C5AC-422C-B3B1-A8609CC4F9D9}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1_exe", "1_exe", "{492D574A-775E-4487-A381-A85E3AE11852}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sandbox_vs_dll", "demo\sandbox\sandbox_vs_dll.vcxproj", "{EE20782E-41F9-3BCA-BAFD-A0C605BD14F2}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "libsandbox_vs", "demo\sandbox\libsandbox_vs.vcxproj", "{EE20782E-41F9-3BCA-BAFD-A0C605BD14F2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
